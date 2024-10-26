@@ -1,0 +1,8 @@
+Five Common DataType in Python
+1) String
+2) Int
+3) Float
+4) Boolean
+5) List
+
+Variable: It is an container to store the Data
