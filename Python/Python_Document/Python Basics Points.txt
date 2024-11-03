@@ -6,3 +6,14 @@ Five Common DataType in Python
 5) List
 
 Variable: It is an container to store the Data
+
+Conditional Statements
+1) If
+2) If else
+3) Loops
+    Loops:
+        a) For Loops
+        b) While Loops
+
+Functions
+1) Userdefined Functions
